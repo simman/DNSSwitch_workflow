@@ -1,6 +1,16 @@
 DNSSwitch_workflow
 ==================
 
+------------
+
+- 修复无法正常设置 DNS 问题
+- 添加 taobao、114dns
+
+------------
+
+
+
+
 天朝的网络你懂得 :-( 经常访问Mac App Store或者iTunes Store时速度狂慢，更新下载无从谈起。我经常通过切换[V2Ex](http://dns.v2ex.com)或者GoogleDNS来解决这事。这个workflow就是通过dns关键字快速切换DNS设置。目前支持以下设置：
 * dns google: 切换到8.8.8.8, 4.4.4.4
 * dns v2ex: 切换到199.91.73.222 178.79.131.110
